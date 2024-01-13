@@ -113,7 +113,7 @@ function App()
   return (
     <div className="App">
       <ToastContainer />
-      <h1>Weather Forecast App</h1>
+      <h1>Weather App</h1>
       <div className="container">
         <button className="temp-converter" onClick={() =>
         {
