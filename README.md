@@ -22,7 +22,7 @@ To install all the dependencies of the project, run the following command:
 
 
 #### Deployment Link:
- - Link : https://recipe-app-two-zeta.vercel.app/
+ - Link : https://weather-app-sage-pi-42.vercel.app/
 
 
 <p align="center">
